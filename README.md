@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Parth Pawar 👋
 
+I’m an IT engineering student learning full-stack web development and building beginner-friendly projects.
+
+## About Me
+- 🌱 Currently learning MERN Stack
+- 💻 Interested in frontend and backend development
+- 🚀 Building real-world web projects to improve my skills
+- 📚 Practicing JavaScript, Node.js, Express.js, and MongoDB
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- Java
+
+## Projects
+- Portfolio Website
+- FoodGo Website
+- Movie Explorer
+- Book API
+- Car Rental API
+
+## Currently Working On
+- Improving my portfolio
+- Building backend projects
+- Learning authentication and REST APIs
+
+## Connect With Me
+- GitHub: https://github.com/parthpawar-web
+- LinkedIn: add-your-link-here
 <!--
-**parthpawar-web/parthpawar-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
