@@ -32,6 +32,6 @@ I’m an IT engineering student learning full-stack web development and building
 
 ## Connect With Me
 - GitHub: https://github.com/parthpawar-web
-- LinkedIn: add-your-link-here
+- LinkedIn: https://www.linkedin.com/in/parth-pawar-4a8a6a34a/
 <!--
 
